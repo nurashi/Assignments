@@ -1,4 +1,4 @@
-# Assignments
+# Assignment 1
 Shape and Point Calculation Project
 
 ## Overview
